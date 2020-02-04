@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "IR_SAA3010", "IR_SAA3010.avrgccproj", "{82E081FC-FAC2-4B57-8BD4-1EAEC6BBBF0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82E081FC-FAC2-4B57-8BD4-1EAEC6BBBF0F}.default|AVR.ActiveCfg = default|AVR
+		{82E081FC-FAC2-4B57-8BD4-1EAEC6BBBF0F}.default|AVR.Build.0 = default|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
